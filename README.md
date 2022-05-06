@@ -9,6 +9,6 @@
 *    #### Implemented some validations for User's fields. ex. password , email.
 *    #### Passwords store in DB as it's hash values.
 *    #### Implemented most usable Endpoints
-*    #### Implemented upload/download and export with PDF and Excel 
+*    #### Implemented upload/download and export/import with PDF and Excel 
 
 #### * For more convenient testing you can import postman_collection
